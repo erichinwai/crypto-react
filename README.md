@@ -4,4 +4,4 @@ cd backend
 nodemon server
 
 cd my-app
-npm
+npm start
